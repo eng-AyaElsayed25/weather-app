@@ -1,0 +1,39 @@
+.body{
+    background-image:url(../img/rm373batch2-04.jpg);
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    height: 100vh;
+    
+    
+    
+}
+
+.input-group{
+    padding: 25px;
+    position: relative;
+    
+    
+
+}
+/* .btn{
+    position: absolute;
+    right: 98px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    z-index: 1;
+} */
+
+.bgg{
+    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+    radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+
+    
+}
+/* .bgg3{
+    background-image: linear-gradient(to bottom, #051237, #551f56, #a12a58, #d85341, #eb9412);
+}
+.bgg2{
+    background-image: linear-gradient(to bottom, #721643, #61386d, #445382, #346684, #49757d);
+} */
